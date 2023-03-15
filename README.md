@@ -3,7 +3,7 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-## <p>  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50">Tech Stack | Tecnologias </p>
+## <p justify="center"><img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50">Tech Stack | Tecnologias</p>
  These are some of the technologies I use on a daily basis. | Estas são algumas das tecnologias que uso no dia a dia.
 <div align="center">
  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="100">

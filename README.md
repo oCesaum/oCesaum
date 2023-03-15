@@ -1,5 +1,7 @@
-<h1>Hello my name is César Augusto, I'm a front-end developer, and I'm improving my knowledge to become a full stack developer.</h1>
-<h1>Olá sou o César Augusto, desenvolvedor front-end, e estou aprimorando meus conhecimentos para me tornar um desenvolvedor full stack.</h1>
+<h1>Hello my name is César Augusto.</h1>
+<p>I'm a front-end developer, and I'm improving my knowledge to become a full stack developer.</p>
+<h1>Olá sou o César Augusto.</h1>
+<p>Sou um desenvolvedor front-end, e estou aprimorando meus conhecimentos para me tornar um desenvolvedor full stack.</p>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 

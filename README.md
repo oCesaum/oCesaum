@@ -1,6 +1,16 @@
 <h1>Hello my name is César Augusto. | Olá sou o César Augusto.</h1>
 <p>I'm a front-end developer, and I'm improving my knowledge to become a full stack developer. | Sou um desenvolvedor front-end, e estou aprimorando meus conhecimentos para me tornar um desenvolvedor full stack.</p>
 
+## 🌐 Social media | Redes Sociais
+<div> 
+  <a href="https://instagram.com/_cesaum" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/cesar-augsuto/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
+
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## <p justify="center"><img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50">Tech Stack | Tecnologias</p>
@@ -23,16 +33,6 @@
 <div align="center" display="Flex">
  <a href="https://github.com/oCesaum/oCesaum">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oCesaum&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oCesaum&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oCesaum&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
  </a>
-</div>
-
-## 🌐 Socials | Redes Sociais
-<div> 
-  <a href="https://instagram.com/_cesaum" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/cesar-augsuto/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
 </div>

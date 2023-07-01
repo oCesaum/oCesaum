@@ -28,11 +28,3 @@
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </div>
-
-## 📈 GitHub Stats | Estatísticas do GitHub
-<div align="center" display="Flex">
- <a href="https://github.com/oCesaum/oCesaum">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oCesaum&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oCesaum&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
- </a>
-</div>
